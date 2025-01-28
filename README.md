@@ -2,6 +2,9 @@
 
 This is a simple Snake game implemented in Python using the Pygame library.
 
+![Snake](snake.PNG)
+
+
 ## How to Play
 
 - Use the arrow keys to move the snake.
@@ -20,4 +23,4 @@ This is a simple Snake game implemented in Python using the Pygame library.
 
  4.  python snake_game.py
 
-![snake](https://github.com/user-attachments/assets/1c897347-898c-4d1f-aa1f-3ceccbe8f58a)
+
