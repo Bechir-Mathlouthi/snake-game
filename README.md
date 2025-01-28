@@ -19,3 +19,5 @@ This is a simple Snake game implemented in Python using the Pygame library.
  3.   pip install -r requirements.txt
 
  4.  python snake_game.py
+
+![snake](https://github.com/user-attachments/assets/1c897347-898c-4d1f-aa1f-3ceccbe8f58a)
